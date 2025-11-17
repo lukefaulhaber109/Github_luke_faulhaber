@@ -1,0 +1,48 @@
+html{
+    color: rgb(255, 255, 255);
+box-sizing: border-box;
+background-color: rgb(0, 0, 0);}
+head{
+padding: 10px;
+
+}
+header{
+font-style: italic;
+font-family:Verdana, Geneva, Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+font-size: large;
+}
+#nav section{
+background-color: rgba(255, 0, 0, 0.363);
+border: 5px;
+}
+#about_me section{
+    border: 3px rgba(220, 20, 20, 0.411) solid;
+    border-radius: 9px;
+    background-color: rgba(119, 1, 1, 0.623);
+    color: rgb(0, 190, 204);
+    text-align: center;}
+#skills section{
+    border: 3px rgba(221, 90, 3, 0.411) solid;
+    border-radius: 9px;
+    background-color: rgba(187, 2, 2, 0.623);
+    color: rgb(0, 156, 204);
+    text-align: left;
+font-size: large;
+}
+body {
+border: 5px rgba(212, 212, 212, 0.747) solid;
+border-radius: 9px;
+}
+a:link {
+    color: rgb(0, 255, 13);
+  } 
+  a:visited {
+    color: green;
+  }
+  a:hover {
+    color: rgb(247, 0, 255);
+  }
+#projects section{
+text-emphasis: none;
+
+}
