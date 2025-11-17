@@ -1,1 +1,83 @@
-fhgfjufjuhrubvjnfnh
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="style.css" >
+    <title>Luke Faulhaber assignment 1 </title>
+  </head>
+  <body>
+    <header>
+        <h1>Luke Faulhaber</h1>
+    </header>
+   
+        <main>
+          <div id="nav">
+            <section>
+              <h2>Navigation</h2>
+              <p><a href="#about_me">About me </a></p>
+              <p><a href="#projects">Projects </a></p>
+              <p><a href="#contact_info">Contact info </a></p>
+           </section>
+          </div>
+          <div id="about_me">
+          <section>
+            
+            <h2>
+              About Me
+            </h2>
+            
+              <img src="images/Gorrilla.jpg" alt="">
+            
+              <p>Who am I? I'm Luke Faulhaber a student at viu, my favorite colour is blood red, i love to play video games, go on bike rides, occasionally work out, and I love silly primates. Here are some of my skills ive learned.  </p>
+          
+          </section>
+          </div>
+          <br>
+          <div id="skills">
+          <section>
+            <h3>My Skills</h3>
+           <ul>
+            <li>
+              I can read and write java, html, and python on a begginer level.
+            </li>
+            <li>
+              I can deconstruct a computer and reconstruct it in a detailed, and thorough way with documentation and pictures
+            </li>
+            <li>
+              I can endure, and persevere through many challenges both mental and physical making sure work gets done on time.
+            </li>
+            <li>
+              I learn new concepts quickly as well as put them into practice soon after learning them.
+            </li>
+          </ul>
+            </section>
+            
+         </div>
+          <div id="projects">
+          <section>
+            <h2>Projects</h2>
+            <h3>three things I want to acomplish in my life with ITAS</h3>
+            <ul>
+            <li>
+              For the longest time ive wanted to run a D&D campaign with some friends one thats superhero inspired
+            </li>
+
+            <li>
+              One of the many reason's I joined ITAS is because I want to work with Virus's and malicious programs to understand how the work and how to crack them so I will be able to notice them wherever I go
+            </li>
+            <li>
+              I want to work on making games that aren't supported or purchasable, playable and eventually create servers for said games expecially masterpieces that never got their chance to shine.
+            </li>
+            </ul>
+          </section>
+        </div>
+        </main>
+        <footer>
+          <div id="contact_info">
+              <h2>Contact Information</h2>
+               <h3><a href="https://mail.google.com/mail/u/0/#inbox">Luke.Faulhaber9009@gmail.com</a></h3>
+               <h3><a href="https://www.linkedin.com/in/luke-guerrier-0985a72a3/">Linkedin</a></h3>
+          </div>
+        </footer>
+    </body>
+</html>
